@@ -13,5 +13,4 @@
 #' }
 #' 
 #' @source \url{https://ecoregions2017.appspot.com/}
-#' @seealso \url{https://academic.oup.com/bioscience/article/67/6/534/3102935}, \url{https://academic.oup.com/bioscience/article/51/11/933/227116}
 "terrestrial_lands"
