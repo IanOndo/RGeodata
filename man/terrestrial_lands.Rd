@@ -24,7 +24,4 @@ terrestrial_lands
 \description{
 A map of the Terrestrial lands of the world, derived from Ecoregions Of the World (Dinerstein, 2017) with boundaries between adjacent ecoregions units dissolved (eliminated).
 }
-\seealso{
-\url{https://academic.oup.com/bioscience/article/67/6/534/3102935}, \url{https://academic.oup.com/bioscience/article/51/11/933/227116}
-}
 \keyword{datasets}

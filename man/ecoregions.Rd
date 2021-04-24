@@ -24,7 +24,4 @@ ecoregions
 \description{
 A revised map of the TEOW (Dinerstein, 2017).
 }
-\seealso{
-\url{https://academic.oup.com/bioscience/article/67/6/534/3102935}, \url{https://academic.oup.com/bioscience/article/51/11/933/227116}
-}
 \keyword{datasets}
