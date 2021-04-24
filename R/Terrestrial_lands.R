@@ -1,8 +1,8 @@
 #' Terrestrial Lands Of the World (TLOW).
 #'
-#' A map of the Terrestrial Ecoregions Of the World (Dinerstein, 2017) with boundaries between adjacent ecoregions units dissolved (eliminated).
+#' A map of the Terrestrial lands of the world, derived from Ecoregions Of the World (Dinerstein, 2017) with boundaries between adjacent ecoregions units dissolved (eliminated).
 #'
-#' @format A SpatialPolygonDataFrame with 144749 features and 6 variables. The variables have no special meaning (except \code{area}) but are by-products of geoprocessing:
+#' @format A Simple Features Collections with 144749 features and 6 fields. The fields have no special meaning (except \code{area}) but are by-products of geoprocessing:
 #' \describe{
 #'   \item{id}{...}
 #'   \item{level}{...}
