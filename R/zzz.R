@@ -13,7 +13,7 @@
   RGeodata::ecoregions %>% 
     dplyr::group_by(BIOME_NAME) %>% 
     dplyr::summarise() %>%
-    as.data.frame()
+    `class<-`(c("sf","data.frame"))
 }
 
 .onLoad <- function(...) {
